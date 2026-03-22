@@ -31,11 +31,11 @@ Sales dataset containing product, city, quantity, and revenue.
 
 # Visualizations
 
-![Top Products](images/top_products.png)
-![City Sales](images/city_sales.png)
-![Revenue](images/revenue_distribution.png)
+- Top Products
+- City Sales Revenue
+- Customer Type Revenue
 
----
+
 
 # Key Insights
 - Few products generate most revenue
